@@ -12,8 +12,8 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-asanchezloaiza274@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asanchezloaiza274@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-TU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-loaiza-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-asanchezloaiza274--cell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asanchezloaiza274-cell)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 👋 Sobre mí
 
-Soy **Alejandro**, desarrollador web apasionado por construir aplicaciones **modernas, seguras y eficientes**. Soy Tecnólogo en Análisis y Desarrollo de Software (SENA) y actualmente trabajo como **Desarrollador** en *World Travel Assist by HAS*, donde además me encargo de la **seguridad de la información** bajo los estándares de la norma **ISO 27001**.
+Soy **Alejandro**, desarrollador web apasionado por construir aplicaciones **modernas, seguras y eficientes**. Soy Tecnólogo en Análisis y Desarrollo de Software (SENA) y trabajé como **Desarrollador** en *48hoorassdía* hasta octubre de 2026, donde además me encargué de la **seguridad de la información** bajo los estándares de la norma **ISO 27001**.
 
 Me caracterizo por ser responsable, proactivo y comprometido, con gran capacidad para trabajar en equipo y adaptarme a nuevos retos. Siempre estoy aprendiendo algo nuevo.
 
@@ -60,8 +60,8 @@ Me caracterizo por ser responsable, proactivo y comprometido, con gran capacidad
 
 ## 💼 Experiencia profesional
 
-### 🧑‍💻 Desarrollador · World Travel Assist by HAS
-`Febrero 2025 – Actualidad`
+### 🧑‍💻 Desarrollador · 48hoorassdía
+`Febrero 2025 – Octubre 2026`
 
 - Desarrollo y mantenimiento de aplicaciones web con Django y React.
 - Responsable de la **seguridad de la información** de las plataformas, asegurando alineación y cumplimiento con la norma **ISO 27001**.
@@ -91,31 +91,23 @@ Me caracterizo por ser responsable, proactivo y comprometido, con gran capacidad
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6" alt="Top lenguajes" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asanchezloaiza274-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanchezloaiza274-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6" alt="Top lenguajes" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Racha" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asanchezloaiza274-cell&theme=tokyonight&hide_border=true&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Racha" />
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos
 
-> 💡 Reemplaza estos ejemplos con tus repositorios reales y fíjalos en tu perfil.
-
-<div align="center">
-
-<a href="https://github.com/TU_USUARIO/NOMBRE_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6" alt="Proyecto 1" />
-</a>
-<a href="https://github.com/TU_USUARIO/NOMBRE_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6" alt="Proyecto 2" />
-</a>
-
-</div>
+| Proyecto | Tecnologías | Descripción |
+|:--|:--|:--|
+| 💼 **portfolio** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Mi portafolio web personal |
+| 💬 **chat** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Aplicación de chat |
 
 ---
 
@@ -137,11 +129,11 @@ Me caracterizo por ser responsable, proactivo y comprometido, con gran capacidad
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Enviar_correo-1e4a8c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asanchezloaiza274@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-loaiza-dev)
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=1e4a8c&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=asanchezloaiza274-cell&label=Visitas+al+perfil&color=1e4a8c&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e4a8c,100:0f2347&height=120&section=footer" alt="Footer" />
 
