@@ -183,16 +183,13 @@ Aplicación de chat.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=asanchezloaiza274-cell&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanchezloaiza274-cell&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top lenguajes" />
+<img src="https://img.shields.io/github/followers/asanchezloaiza274-cell?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=8b5cf6&labelColor=0d1117" alt="Seguidores" />
+<img src="https://img.shields.io/github/last-commit/asanchezloaiza274-cell/portfolio?style=for-the-badge&logo=git&logoColor=white&label=%C3%9Altimo%20commit&color=0891b2&labelColor=0d1117" alt="Último commit" />
+<img src="https://img.shields.io/github/languages/top/asanchezloaiza274-cell/chat?style=for-the-badge&label=Lenguaje%20top&color=4c1d95&labelColor=0d1117" alt="Lenguaje top" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanchezloaiza274-cell&theme=synthwave&hide_border=true&background=0d1117&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee" alt="Racha" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asanchezloaiza274-cell&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&area_color=4c1d95&hide_border=true" width="100%" alt="Actividad" />
 
 </div>
 
@@ -230,6 +227,6 @@ Aplicación de chat.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=500&lines=%E2%9C%A8+C%C3%B3digo+limpio%2C+sistemas+seguros+y+aprendizaje+constante+%E2%9C%A8" alt="Lema" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4c1d95,100:0d1117&height=130&section=footer" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" width="100%" alt="Footer" />
 
 </div>
